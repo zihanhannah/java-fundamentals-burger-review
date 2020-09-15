@@ -1,4 +1,5 @@
 import java.util.HashMap;
+import model.Burger;
 
 public class Assessment {
     // Have a Burger Class - properties of condiments - print out a statement about deliciousness factor
