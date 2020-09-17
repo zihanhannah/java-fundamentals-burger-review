@@ -1,5 +1,10 @@
 package model;
 
+<<<<<<< HEAD:src/main/java/model/Burger.java
+=======
+import model.BurgerSale;
+
+>>>>>>> 0d9ff3167c45b6b6169cea17441da2631cdbcef7:src/main/java/Burger.java
 public class Burger implements BurgerSale {
     // properties for bun, pickles, numPatties, Cheese
     private String burgerName;
