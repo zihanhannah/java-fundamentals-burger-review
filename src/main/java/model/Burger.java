@@ -1,3 +1,7 @@
+package model;
+
+import model.BurgerSale;
+
 public class Burger implements BurgerSale {
     // properties for bun, pickles, numPatties, Cheese
     private String burgerName;

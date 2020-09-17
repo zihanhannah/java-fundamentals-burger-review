@@ -1,4 +1,5 @@
 import java.util.HashMap;
+import model.Burger;
 
 public class Assessment {
     // Have a Burger Class - properties of condiments - print out a statement about deliciousness factor
@@ -14,7 +15,6 @@ public class Assessment {
         System.out.println(homestyle.burgerHasCheese());
 
         System.out.println("The area of a rectangle with side 1: 5, and side 2: 7 is equal to: " + getArea(5, 7));
-
         // Make a hash map of burgers where the key => value relationship is 'burgerName' => Burger()
         HashMap<String, Burger> theBurgers = new HashMap<>();
         theBurgers.put(bigMac.getBurgerName(), bigMac);
